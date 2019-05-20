@@ -1,0 +1,2 @@
+# underwater-restaurant
+Underwater Restaurant is team project where we created a modern underwater themed website to feature JavaScript Fundamentals. Weekly Specials features display daily menu and highlighted based on what day of the week. For Gift card, users can choose the amount, fill out the form and will have a confirmation message after the form submission. Check the website here http://underwater.tk/
