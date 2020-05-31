@@ -37,7 +37,7 @@ window.onload = function(e){
             }
             if(degrees > 1300){  
                 clearInterval(rotate);
-                $('#dialog').attr('title', 'Prize').text('Sorry, You did not win. Better luck next time!').dialog({buttons: { 'Ok': function() {window.location.href = "homepage.html";}}}); 
+                $('#dialog').attr('title', 'Prize').text('Sorry, You did not win. Better luck next time!').dialog({buttons: { 'Ok': function() {window.location.href = "index.php";}}}); 
             }   
         },speed) 
     }

@@ -100,14 +100,18 @@ h2{
 
 /* WEEKLY SPECIALS STYLING WHEN CURRENT DAY IS SELECTED*/
 .highlights{
-    
     font-style: italic; 
-    color: #2d3030; 
+    color: #2d3030!important; 
     border-bottom: 1px solid #C9B784; 
     font-size: 20px; 
     background: #e6edf0; 
     border-radius:10px;
     
+}
+
+.highlights p, .highlights h2{
+    
+    color: #2d3030!important;   
 }
 
 
